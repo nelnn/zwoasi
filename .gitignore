@@ -1,0 +1,5 @@
+__pycache__/
+photos/
+*.csv
+errorLog.txt
+source/*.jpg
