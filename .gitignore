@@ -3,3 +3,5 @@ photos/
 *.csv
 errorLog.txt
 source/*.jpg
+git_tutorial.md
+serverinfo.txt
