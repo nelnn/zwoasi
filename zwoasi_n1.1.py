@@ -24,8 +24,8 @@ class App():
         ######################################################
         # settings
         sqm_ip = "169.254.247.96" # "192.168.8.148" 
-        url = "https://3.39.172.216/allsky/upload"    # upload url path (please edit IP address or domain name)
-        token_key = "qC6a_x8GuoqmFpiW8i6duDsFpsqNqluYbb1DGY1u4yE"    # for server authentication
+        url = "<replace with your server url>"
+        token_key = "< replace with server token key>"
         location = "hkspm" # hkspm / astropark / lmhv
         windows_driver = "ASI_Windows/lib/x64/ASICamera2.dll"
         linux_driver = 'ASI_linux/lib/armv7/libASICamera2.so.1.25'

@@ -432,8 +432,8 @@ if __name__ == "__main__":
     sqm_connection = detect_sqm(sqm_ip)
 
     '''upload to server'''
-    url = "https://210.3.170.231/allsky/upload"    # upload url path (please edit IP address or domain name)
-    token_key = "qC6a_x8GuoqmFpiW8i6duDsFpsqNqluYbb1DGY1u4yE"    # for server authentication
+    url = "<replace with your server url>"
+    token_key = "< replace with server token key>"
 
     app = App()
     app.mainloop()
